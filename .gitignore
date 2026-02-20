@@ -1,0 +1,5 @@
+/target
+/*.yaml
+/*.py
+/*.dll
+/*.log
